@@ -1,0 +1,16 @@
+08.11.36.009 {main} INFO  testCases.TC003_LoginDDT - ***** TC003_LoginDDT completed *****
+08.11.36.019 {main} INFO  testCases.TC003_LoginDDT - ***** TC003_LoginDDT started *****
+08.11.36.020 {main} INFO  testCases.TC003_LoginDDT - ***** Clicking My Account and Login button *****
+08.11.37.912 {main} INFO  testCases.TC003_LoginDDT - ***** Passing User credentials *****
+08.11.39.366 {main} INFO  testCases.TC003_LoginDDT - ***** Validating User Creds is valid/not valid *****
+08.11.49.422 {main} INFO  testCases.TC003_LoginDDT - ***** TC003_LoginDDT completed *****
+08.11.49.431 {main} INFO  testCases.TC003_LoginDDT - ***** TC003_LoginDDT started *****
+08.11.49.433 {main} INFO  testCases.TC003_LoginDDT - ***** Clicking My Account and Login button *****
+08.11.51.422 {main} INFO  testCases.TC003_LoginDDT - ***** Passing User credentials *****
+08.11.55.372 {main} INFO  testCases.TC003_LoginDDT - ***** Validating User Creds is valid/not valid *****
+08.12.05.408 {main} INFO  testCases.TC003_LoginDDT - ***** TC003_LoginDDT completed *****
+08.12.05.412 {main} INFO  testCases.TC003_LoginDDT - ***** TC003_LoginDDT started *****
+08.12.05.413 {main} INFO  testCases.TC003_LoginDDT - ***** Clicking My Account and Login button *****
+08.12.06.579 {main} INFO  testCases.TC003_LoginDDT - ***** Passing User credentials *****
+08.12.08.266 {main} INFO  testCases.TC003_LoginDDT - ***** Validating User Creds is valid/not valid *****
+08.12.18.313 {main} INFO  testCases.TC003_LoginDDT - ***** TC003_LoginDDT completed *****

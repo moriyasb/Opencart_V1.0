@@ -1,0 +1,24 @@
+18.51.35.865 {main} DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18.51.35.924 {main} INFO  testCases.TC003_LoginDDT - ***** TC003_LoginDDT started *****
+18.51.36.093 {main} INFO  testCases.TC003_LoginDDT - ***** Clicking My Account and Login button *****
+18.51.37.975 {main} INFO  testCases.TC003_LoginDDT - ***** Passing User credentials *****
+18.51.40.342 {main} INFO  testCases.TC003_LoginDDT - ***** Validating User Creds is valid/not valid *****
+18.51.50.538 {main} INFO  testCases.TC003_LoginDDT - ***** TC003_LoginDDT started *****
+18.51.50.539 {main} INFO  testCases.TC003_LoginDDT - ***** Clicking My Account and Login button *****
+18.51.55.232 {main} INFO  testCases.TC003_LoginDDT - ***** Passing User credentials *****
+18.51.57.113 {main} INFO  testCases.TC003_LoginDDT - ***** Validating User Creds is valid/not valid *****
+18.52.07.192 {main} INFO  testCases.TC003_LoginDDT - ***** TC003_LoginDDT completed *****
+18.52.07.204 {main} INFO  testCases.TC003_LoginDDT - ***** TC003_LoginDDT started *****
+18.52.07.205 {main} INFO  testCases.TC003_LoginDDT - ***** Clicking My Account and Login button *****
+18.52.09.419 {main} INFO  testCases.TC003_LoginDDT - ***** Passing User credentials *****
+18.52.12.530 {main} INFO  testCases.TC003_LoginDDT - ***** Validating User Creds is valid/not valid *****
+18.52.22.602 {main} INFO  testCases.TC003_LoginDDT - ***** TC003_LoginDDT completed *****
+18.52.22.615 {main} INFO  testCases.TC003_LoginDDT - ***** TC003_LoginDDT started *****
+18.52.22.617 {main} INFO  testCases.TC003_LoginDDT - ***** Clicking My Account and Login button *****
+18.52.23.993 {main} INFO  testCases.TC003_LoginDDT - ***** Passing User credentials *****
+18.52.26.313 {main} INFO  testCases.TC003_LoginDDT - ***** Validating User Creds is valid/not valid *****
+18.52.36.384 {main} INFO  testCases.TC003_LoginDDT - ***** TC003_LoginDDT completed *****
+18.52.36.394 {main} INFO  testCases.TC003_LoginDDT - ***** TC003_LoginDDT started *****
+18.52.36.395 {main} INFO  testCases.TC003_LoginDDT - ***** Clicking My Account and Login button *****
+18.52.37.842 {main} INFO  testCases.TC003_LoginDDT - ***** Passing User credentials *****
+18.52.39.102 {main} INFO  testCases.TC003_LoginDDT - ***** Validating User Creds is valid/not valid *****

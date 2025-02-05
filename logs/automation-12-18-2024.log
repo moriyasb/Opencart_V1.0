@@ -1,0 +1,10 @@
+09.00.03.623 {main} DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\mohamed\Selenium-Workspace\Framework_V25.01\mastersuite.xml"
+09.00.04.177 {main} INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mohamed\Selenium-Workspace\Framework_V25.01\mastersuite.xml
+
+09.00.20.746 {main} INFO  testCases.TC001_UserAccountRegistration - ***** TC001_UserAccountRegistration started *****
+09.00.20.772 {main} INFO  testCases.TC001_UserAccountRegistration - ***** Clicking MyAccount option *****
+09.00.20.863 {main} INFO  testCases.TC001_UserAccountRegistration - ***** Clicking Register option *****
+09.00.24.505 {main} INFO  testCases.TC001_UserAccountRegistration - ***** Filling up all registration details *****
+09.00.44.113 {main} INFO  testCases.TC001_UserAccountRegistration - ***** Validating Success Message *****
+09.00.44.117 {main} INFO  testCases.TC001_UserAccountRegistration - ***** TC001_UserAccountRegistration completed *****

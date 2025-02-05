@@ -1,0 +1,25 @@
+06.17.48.091 {main} INFO  testCases.TC003_LoginDDT - ***** TC003_LoginDDT started *****
+06.17.48.450 {main} INFO  testCases.TC003_LoginDDT - ***** Clicking My Account and Login button *****
+06.17.50.601 {main} INFO  testCases.TC003_LoginDDT - ***** Passing User credentials *****
+06.17.55.575 {main} INFO  testCases.TC003_LoginDDT - ***** Validating User Creds is valid/not valid *****
+06.17.57.865 {main} INFO  testCases.TC003_LoginDDT - ***** TC003_LoginDDT completed *****
+06.17.57.875 {main} INFO  testCases.TC003_LoginDDT - ***** TC003_LoginDDT started *****
+06.17.57.876 {main} INFO  testCases.TC003_LoginDDT - ***** Clicking My Account and Login button *****
+06.18.00.280 {main} INFO  testCases.TC003_LoginDDT - ***** Passing User credentials *****
+06.18.02.006 {main} INFO  testCases.TC003_LoginDDT - ***** Validating User Creds is valid/not valid *****
+06.18.12.083 {main} INFO  testCases.TC003_LoginDDT - ***** TC003_LoginDDT completed *****
+06.18.12.098 {main} INFO  testCases.TC003_LoginDDT - ***** TC003_LoginDDT started *****
+06.18.12.099 {main} INFO  testCases.TC003_LoginDDT - ***** Clicking My Account and Login button *****
+06.18.13.769 {main} INFO  testCases.TC003_LoginDDT - ***** Passing User credentials *****
+06.18.14.935 {main} INFO  testCases.TC003_LoginDDT - ***** Validating User Creds is valid/not valid *****
+06.18.25.007 {main} INFO  testCases.TC003_LoginDDT - ***** TC003_LoginDDT completed *****
+06.18.25.018 {main} INFO  testCases.TC003_LoginDDT - ***** TC003_LoginDDT started *****
+06.18.25.019 {main} INFO  testCases.TC003_LoginDDT - ***** Clicking My Account and Login button *****
+06.18.26.259 {main} INFO  testCases.TC003_LoginDDT - ***** Passing User credentials *****
+06.18.27.392 {main} INFO  testCases.TC003_LoginDDT - ***** Validating User Creds is valid/not valid *****
+06.18.37.428 {main} INFO  testCases.TC003_LoginDDT - ***** TC003_LoginDDT completed *****
+06.18.37.442 {main} INFO  testCases.TC003_LoginDDT - ***** TC003_LoginDDT started *****
+06.18.37.443 {main} INFO  testCases.TC003_LoginDDT - ***** Clicking My Account and Login button *****
+06.18.38.497 {main} INFO  testCases.TC003_LoginDDT - ***** Passing User credentials *****
+06.18.39.814 {main} INFO  testCases.TC003_LoginDDT - ***** Validating User Creds is valid/not valid *****
+06.18.49.888 {main} INFO  testCases.TC003_LoginDDT - ***** TC003_LoginDDT completed *****

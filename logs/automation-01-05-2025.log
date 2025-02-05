@@ -1,0 +1,23 @@
+17.53.29.033 {main} DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\mohamed\Selenium-Workspace\Framework_V25.01\mastersuite.xml"
+17.53.29.840 {main} INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mohamed\Selenium-Workspace\Framework_V25.01\mastersuite.xml
+
+17.54.50.072 {main} INFO  testCases.TC002_LoginTest - **** TC002_LoginTest started *****
+17.54.50.182 {main} INFO  testCases.TC002_LoginTest - **** Clicking Myaccount and Login link ******
+17.54.53.790 {main} INFO  testCases.TC002_LoginTest - *** Entering UN and PASS details ****
+17.56.56.445 {main} DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\mohamed\Selenium-Workspace\Framework_V25.01\mastersuite.xml"
+17.56.57.030 {main} INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mohamed\Selenium-Workspace\Framework_V25.01\mastersuite.xml
+
+17.57.05.951 {main} INFO  testCases.TC002_LoginTest - **** TC002_LoginTest started *****
+17.57.06.010 {main} INFO  testCases.TC002_LoginTest - **** Clicking Myaccount and Login link ******
+17.57.07.983 {main} INFO  testCases.TC002_LoginTest - *** Entering UN and PASS details ****
+18.57.08.383 {main} DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\mohamed\Selenium-Workspace\Framework_V25.01\mastersuite.xml"
+18.57.08.923 {main} INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mohamed\Selenium-Workspace\Framework_V25.01\mastersuite.xml
+
+18.57.25.166 {main} INFO  testCases.TC002_LoginTest - **** TC002_LoginTest started *****
+18.57.25.192 {main} INFO  testCases.TC002_LoginTest - **** Clicking Myaccount and Login link ******
+18.57.39.549 {main} INFO  testCases.TC002_LoginTest - *** Entering UN and PASS details ****
+18.57.48.615 {main} INFO  testCases.TC002_LoginTest - *** validating MyAccountHeading ****
+18.57.48.766 {main} INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ****

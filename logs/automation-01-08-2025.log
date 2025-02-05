@@ -1,0 +1,25 @@
+07.42.41.249 {main} INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ****
+07.44.27.103 {main} DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\mohamed\Selenium-Workspace\Framework_V25.01\test-output\testng-failed.xml"
+07.44.27.623 {main} INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mohamed\Selenium-Workspace\Framework_V25.01\test-output\testng-failed.xml
+
+07.44.34.190 {main} INFO  testCases.TC001_UserAccountRegistration - ***** TC001_UserAccountRegistration started *****
+07.44.34.226 {main} INFO  testCases.TC001_UserAccountRegistration - ***** Clicking MyAccount option *****
+07.44.34.404 {main} INFO  testCases.TC001_UserAccountRegistration - ***** Clicking Register option *****
+07.44.35.714 {main} INFO  testCases.TC001_UserAccountRegistration - ***** Filling up all registration details *****
+07.44.40.155 {main} INFO  testCases.TC001_UserAccountRegistration - ***** Validating Success Message *****
+07.44.40.161 {main} INFO  testCases.TC001_UserAccountRegistration - ***** TC001_UserAccountRegistration completed *****
+07.49.33.633 {main} DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\mohamed\Selenium-Workspace\Framework_V25.01\grouping.xml"
+07.49.34.493 {main} INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mohamed\Selenium-Workspace\Framework_V25.01\grouping.xml
+
+07.49.42.832 {main} INFO  testCases.TC001_UserAccountRegistration - ***** TC001_UserAccountRegistration started *****
+07.49.42.915 {main} INFO  testCases.TC001_UserAccountRegistration - ***** Clicking MyAccount option *****
+07.49.43.059 {main} INFO  testCases.TC001_UserAccountRegistration - ***** Clicking Register option *****
+07.49.45.334 {main} INFO  testCases.TC001_UserAccountRegistration - ***** Filling up all registration details *****
+07.49.49.086 {main} INFO  testCases.TC001_UserAccountRegistration - ***** Validating Success Message *****
+07.49.49.092 {main} INFO  testCases.TC001_UserAccountRegistration - ***** TC001_UserAccountRegistration completed *****
+07.49.56.659 {main} INFO  testCases.TC002_LoginTest - **** TC002_LoginTest started *****
+07.49.56.660 {main} INFO  testCases.TC002_LoginTest - **** Clicking Myaccount and Login link ******
+07.49.59.572 {main} INFO  testCases.TC002_LoginTest - *** Entering UN and PASS details ****
+07.50.01.379 {main} INFO  testCases.TC002_LoginTest - *** validating MyAccountHeading ****
