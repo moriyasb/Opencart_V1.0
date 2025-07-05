@@ -1,0 +1,14 @@
+07.14.02.573 {main} DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\mohamed\Selenium-Workspace\Framework_V25.01\mastersuite.xml"
+07.14.14.777 {main} INFO  testCases.TC001_UserAccountRegistration - ***** TC001_UserAccountRegistration started *****
+07.14.14.871 {main} INFO  testCases.TC001_UserAccountRegistration - ***** Clicking MyAccount option *****
+07.14.14.995 {main} INFO  testCases.TC001_UserAccountRegistration - ***** Clicking Register option *****
+07.14.16.169 {main} INFO  testCases.TC001_UserAccountRegistration - ***** Filling up all registration details *****
+07.14.19.277 {main} INFO  testCases.TC001_UserAccountRegistration - ***** Validating Success Message *****
+07.14.19.287 {main} INFO  testCases.TC001_UserAccountRegistration - ***** TC001_UserAccountRegistration completed *****
+07.16.52.702 {main} DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\mohamed\Selenium-Workspace\Framework_V25.01\mastersuite.xml"
+07.17.01.378 {main} INFO  testCases.TC001_UserAccountRegistration - ***** TC001_UserAccountRegistration started *****
+07.17.01.540 {main} INFO  testCases.TC001_UserAccountRegistration - ***** Clicking MyAccount option *****
+07.17.01.725 {main} INFO  testCases.TC001_UserAccountRegistration - ***** Clicking Register option *****
+07.17.03.320 {main} INFO  testCases.TC001_UserAccountRegistration - ***** Filling up all registration details *****
+07.17.05.985 {main} INFO  testCases.TC001_UserAccountRegistration - ***** Validating Success Message *****
+07.17.05.991 {main} INFO  testCases.TC001_UserAccountRegistration - ***** TC001_UserAccountRegistration completed *****

@@ -1,16 +1,32 @@
-08.11.36.009 {main} INFO  testCases.TC003_LoginDDT - ***** TC003_LoginDDT completed *****
-08.11.36.019 {main} INFO  testCases.TC003_LoginDDT - ***** TC003_LoginDDT started *****
-08.11.36.020 {main} INFO  testCases.TC003_LoginDDT - ***** Clicking My Account and Login button *****
-08.11.37.912 {main} INFO  testCases.TC003_LoginDDT - ***** Passing User credentials *****
-08.11.39.366 {main} INFO  testCases.TC003_LoginDDT - ***** Validating User Creds is valid/not valid *****
-08.11.49.422 {main} INFO  testCases.TC003_LoginDDT - ***** TC003_LoginDDT completed *****
-08.11.49.431 {main} INFO  testCases.TC003_LoginDDT - ***** TC003_LoginDDT started *****
-08.11.49.433 {main} INFO  testCases.TC003_LoginDDT - ***** Clicking My Account and Login button *****
-08.11.51.422 {main} INFO  testCases.TC003_LoginDDT - ***** Passing User credentials *****
-08.11.55.372 {main} INFO  testCases.TC003_LoginDDT - ***** Validating User Creds is valid/not valid *****
-08.12.05.408 {main} INFO  testCases.TC003_LoginDDT - ***** TC003_LoginDDT completed *****
-08.12.05.412 {main} INFO  testCases.TC003_LoginDDT - ***** TC003_LoginDDT started *****
-08.12.05.413 {main} INFO  testCases.TC003_LoginDDT - ***** Clicking My Account and Login button *****
-08.12.06.579 {main} INFO  testCases.TC003_LoginDDT - ***** Passing User credentials *****
-08.12.08.266 {main} INFO  testCases.TC003_LoginDDT - ***** Validating User Creds is valid/not valid *****
-08.12.18.313 {main} INFO  testCases.TC003_LoginDDT - ***** TC003_LoginDDT completed *****
+19.07.21.404 {main} DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+19.07.21.439 {main} DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19.07.21.441 {main} DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19.07.21.444 {main} DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19.07.21.465 {main} DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+19.07.21.492 {main} DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19.07.21.494 {main} DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19.07.21.496 {main} DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19.07.21.520 {main} DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+19.07.21.543 {main} DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19.07.21.545 {main} DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19.07.21.547 {main} DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19.07.21.566 {main} DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+19.07.21.589 {main} DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19.07.21.591 {main} DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19.07.21.593 {main} DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19.07.21.610 {main} DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+19.07.21.633 {main} DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19.07.21.635 {main} DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19.07.21.637 {main} DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19.07.21.661 {main} DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+19.07.21.692 {main} DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19.07.21.693 {main} DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+19.07.21.695 {main} DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19.07.21.714 {main} DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+19.07.22.118 {main} INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@2c6ee758: 134 ms
+19.07.22.297 {main} INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@460510aa: 179 ms
+19.07.22.335 {main} INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@8d7b252: 36 ms
+19.07.22.357 {main} INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@5e2f3be5: 22 ms
+19.07.22.375 {main} INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6b667cb3: 18 ms
+19.07.22.404 {main} INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3157e4c0: 28 ms
+19.07.22.405 {main} INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6eaa21d8: 0 ms
