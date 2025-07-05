@@ -22,14 +22,14 @@ pipeline {
         stage('Compile') {
             steps {
                 echo 'Compiling the project...'
-                sh 'mvn clean compile'
+                bat 'mvn clean compile'
             }
         }
 
         stage('Run Tests') {
             steps {
                 echo 'Running Selenium + TestNG tests...'
-                sh 'mvn test'
+                bat 'mvn test'
             }
         }
 
